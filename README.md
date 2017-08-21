@@ -2,4 +2,4 @@
 
 ## Projects pages
 
-### Terra IoT System - http://afbranco.github.io/Terra
+[Terra IoT System](http://afbranco.github.io/Terra)
